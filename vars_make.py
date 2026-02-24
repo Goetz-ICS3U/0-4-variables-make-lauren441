@@ -1,8 +1,7 @@
 """
-HEADER COMMENTS
+# author: Lauren W
+# date: February 18, 2026
 """
-# Lauren W
-# February 18, 2026
 
 # Input
 # Processing
